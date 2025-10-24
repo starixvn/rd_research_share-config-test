@@ -1,0 +1,4 @@
+{
+  "apiUrl": "http://l2-game-api-local2-service:5000",
+  "authUrl": "http://l2-auth-api-local2-service:5000"
+}
